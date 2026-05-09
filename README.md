@@ -1,4 +1,8 @@
-## Hi there 👋
+# 안녕하세요 👋  
+게임 클라이언트 개발자를 목표로 공부하고 있는 인하대학교 컴퓨터공학과 20학번 성준현입니다!
+
+Unity와 C#을 중심으로 2D/3D 게임 시스템을 구현하고 있으며,  
+아이템/스킬 시스템, UI, 전투 로직, 멀티플레이 구조에 관심이 있습니다.
 
 <!--
 **GinipigKR/GinipigKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
